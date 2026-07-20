@@ -1,1 +1,20 @@
+# data — not tracked
+data/
+*.rds
+*.csv
+*.xlsx
+*.h5
+*.parquet
+*.json
 
+# figures / outputs
+*.pdf
+*.png
+plots/
+output/
+cellchat_pipeline_out/
+
+# R session cruft
+.Rhistory
+.RData
+.Rproj.user/
